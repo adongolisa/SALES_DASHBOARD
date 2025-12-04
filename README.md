@@ -17,7 +17,7 @@ Built with **Streamlit**, **Plotly**, and **Pandas**, this dashboard is fully re
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 - **Python**
 - **Streamlit**
 - **Pandas**
@@ -38,11 +38,11 @@ Built with **Streamlit**, **Plotly**, and **Pandas**, this dashboard is fully re
 
 ---
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/adongolisa/SALES_DASHBOARD.git>
    cd SALES_DASHBOARD
 
 2. Install requirements:
@@ -52,5 +52,5 @@ pip install -r requirements.txt
 
 3. Run the Streamlit app:
    ```bash
-streamlit run app.py
-```
+streamlit run dashboard.py
+
