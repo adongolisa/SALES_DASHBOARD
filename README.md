@@ -13,7 +13,7 @@ Built with **Streamlit**, **Plotly**, and **Pandas**, this dashboard is fully re
 ---
 
 ##  Live Demo  
-🔗 *[Link will appear here once deployed]*  
+🔗 *[https://salesdashboardgit-e7rjjktjbznfrkhukk5agq.streamlit.app/]*  
 
 ---
 
