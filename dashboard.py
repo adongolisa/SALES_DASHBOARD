@@ -79,7 +79,7 @@ with col1:
         "Top Product",
         top_product,
         f"Revenue: ${top_product_revenue:,.2f}",
-        "#d4edda"
+        "#74ee91"
     )
 
 with col2:
@@ -87,7 +87,7 @@ with col2:
         "Week of Highest Revenue",
         top_week,
         f"Revenue: ${top_week_revenue:,.2f}",
-        "#fff3cd"
+        "#e1bf50"
     )
 
 with col3:
@@ -95,7 +95,7 @@ with col3:
         "Region with Lowest Conversion Rate",
         top_region_low_conversion,
         f"Conversion Rate: {top_region_conversion}%",
-        "#f8d7da"
+        "#ed5b67"
     )
 
 st.write("")
