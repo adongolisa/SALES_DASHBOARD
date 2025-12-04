@@ -1,0 +1,17 @@
+#  SALES ANALYTICS DASHBOARD (Streamlit)
+
+A fully interactive analytics dashboard built with **Python, Streamlit, Pandas, and Plotly**.  
+This project analyzes sales performance across products, regions, and time, and includes  
+KPI cards and visual insights for quick decision-making.
+
+---
+
+##  Live Demo
+🔗 **https://yourusername-sales-dashboard.streamlit.app/**
+
+---
+
+##  Project Structure
+dashboard.py → Streamlit dashboard
+sales_data.csv →  sales dataset
+requirements.txt → Python dependencies
